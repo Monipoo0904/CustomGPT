@@ -6,5 +6,12 @@ Important file heirarchy:
 
 In this project, an indexed.json file is created with all of the information that is processed from the knowledge base. As of right now, the knowledge base is entirely comprised of .txt files
 
+Press the Esc button on your keyboard to end the never ending asking of questions lol.
+
+Happy Hacking!
+
+-Monique
+
+
 
 
